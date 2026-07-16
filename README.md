@@ -70,13 +70,11 @@ Interactive browser-based Number Guessing Game built using HTML, CSS and JavaScr
 
 ## 📈 GitHub Statistics
 
-<p align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nensiparmar74&theme=github_dark)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nensiparmar74&show_icons=true&theme=default"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nensiparmar74&theme=github_dark)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensiparmar74&layout=compact"/>
-
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nensiparmar74&theme=github_dark)
 
 ---
 
