@@ -84,9 +84,27 @@ Selected for an innovative Vehicle Alert System and awarded a **₹16,000 Innova
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/nensi-parmar-2a4095380/
-- 📊 Kaggle: https://www.kaggle.com/nensiparmar
-- 💻 GitHub: https://github.com/Nensiparmar74
+-## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Nensiparmar74">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nensi-parmar-2a4095380/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://www.kaggle.com/nensiparmar">
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="45"/>
+</a>
+
+<a href="https://www.youtube.com/@NEXENSAINFOTECH">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/>
+</a>
+
+</p>
 
 ---
 
