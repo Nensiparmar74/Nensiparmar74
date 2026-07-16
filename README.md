@@ -2,9 +2,6 @@
 <!--                 ANIMATED HEADER                       -->
 <!-- ===================================================== -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:FF4D6D,100:00C9FF&text=Nensi%20Parmar&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Front-End%20Developer%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=60"/>
-</p>
 
 <h1 align="center">Hi 👋 I'm Nensi Parmar</h1>
 
@@ -13,8 +10,6 @@ Computer Engineering Student • Front-End Developer • Data Analytics • IoT 
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Front-End+Developer;Power+BI+Dashboard+Developer;IoT+Project+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀"/>
 
 </p>
 
@@ -35,8 +30,6 @@ Computer Engineering Student • Front-End Developer • Data Analytics • IoT 
 ---
 
 # 👩‍💻 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 Computer Engineering Student at **CVM University**
 
@@ -65,25 +58,25 @@ Computer Engineering Student • Front-End Developer • Data Analytics • IoT 
 <p align="center">
 
 <a href="https://github.com/Nensiparmar74">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55" align="center"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/nensi-parmar-2a4095380/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" align="center"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/nensiparmar">
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="55" align="center"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<a href="mailto:nensiparmar74@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55" align="center"/>
 </a>
 
 </p>
