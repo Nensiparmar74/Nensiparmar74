@@ -72,10 +72,6 @@ Interactive browser-based Number Guessing Game built using HTML, CSS and JavaScr
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nensiparmar74&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nensiparmar74&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nensiparmar74&theme=github_dark)
-
 ---
 
 ## 🏆 Achievement
