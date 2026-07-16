@@ -55,28 +55,28 @@ Computer Engineering Student • Front-End Developer • Data Analytics • IoT 
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="https://github.com/Nensiparmar74">
-<img src="https://skillicons.dev/icons?i=github" height="55" align="center"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/nensi-parmar-2a4095380/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" align="center"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/nensiparmar">
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="55" align="center"/>
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="55"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:nensiparmar74@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55" align="center"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 </p>
@@ -110,17 +110,6 @@ Computer Engineering Student • Front-End Developer • Data Analytics • IoT 
 <img src="https://komarev.com/ghpvc/?username=Nensiparmar74&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
-
----
-
-# 💬 Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
 ---
 <!-- ===================================================== -->
 <!--            FEATURED PROJECTS & ACHIEVEMENTS           -->
@@ -143,8 +132,6 @@ Computer Engineering Student • Front-End Developer • Data Analytics • IoT 
 # 🚗 Featured Project
 
 ## Vehicle Alert System (SSIP Innovation Project)
-
-<img align="right" width="320" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 ### 📖 Overview
 
@@ -260,47 +247,6 @@ src="https://github-readme-streak-stats.herokuapp.com?user=Nensiparmar74&theme=t
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensiparmar74&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nensiparmar74&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nensiparmar74&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# ⚡ Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nensiparmar74&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📌 GitHub Summary Cards
 
 <p align="center">
@@ -347,7 +293,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensiparmar7
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:Nensiparmar74@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -355,43 +301,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensiparmar7
 
 ---
 
-# 💡 Developer Philosophy
 
-<div align="center">
-
-> **"Every project is an opportunity to learn, innovate, and build solutions that create real-world impact."**
-
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
-
-</div>
-
-<!-- ===================================================== -->
-<!--                 SNAKE ANIMATION                      -->
-<!-- ===================================================== -->
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Nensiparmar74/Nensiparmar74/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Thanks For Visiting
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
-
-</p>
-
-Nensiparmar74
-│
-├── .github
-│      │
-│      └── workflows
-│              │
-│              └── snake.yml
 
