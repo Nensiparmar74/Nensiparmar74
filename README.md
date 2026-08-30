@@ -4,8 +4,6 @@
 
 I'm a Computer Engineering student at CVM University passionate about building real-world software, IoT solutions, and data-driven applications. I enjoy learning new technologies and solving practical problems through projects.
 
----
-
 ## 👩‍💻 About Me
 
 - 🎓 Computer Engineering Student at CVM University
@@ -13,8 +11,6 @@ I'm a Computer Engineering student at CVM University passionate about building r
 - 📊 Building dashboards using Power BI
 - 🌱 Currently learning JavaScript, SQL and Machine Learning
 - 🚀 Looking for Software Development / Data Analytics / IoT Internship Opportunities
-
----
 
 ## 🛠 Tech Stack
 
@@ -35,8 +31,6 @@ I'm a Computer Engineering student at CVM University passionate about building r
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
 ### 🚗 Vehicle Alert System (SSIP Innovation Project)
@@ -48,31 +42,17 @@ I'm a Computer Engineering student at CVM University passionate about building r
 - Traffic Sign Recognition
 - GPS Tracking & Emergency Alerts
 
----
-
 ### 📊 Student Performance Dashboard
 
 Power BI dashboard for student performance analysis using DAX, Power Query and interactive visualizations.
-
----
 
 ### 💼 Internship Tracker System
 
 SQL + Power BI project for tracking internship applications and analyzing placement insights.
 
----
-
 ### 🎮 NumQuest – Guessing Game
 
 Interactive browser-based Number Guessing Game built using HTML, CSS and JavaScript.
-
----
-
-## 📈 GitHub Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nensiparmar74&theme=github_dark)
-
----
 
 ## 🏆 Achievement
 
@@ -80,14 +60,10 @@ Interactive browser-based Number Guessing Game built using HTML, CSS and JavaScr
 
 Selected for an innovative Vehicle Alert System and awarded a **₹16,000 Innovation Grant**.
 
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nensi-parmar-2a4095380/
 - 📊 Kaggle: https://www.kaggle.com/nensiparmar
 - 💻 GitHub: https://github.com/Nensiparmar74
-- ▶️ YouTube: https://www.youtube.com/@NEXENSAINFOTECH
----
 
 > *"Always curious. Always building. Always learning."*
